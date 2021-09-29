@@ -1,0 +1,2 @@
+Arquivos criado dentro da nova pasta
+Essas alterações serão encaminhadas para o repositório remoto no GitHub
